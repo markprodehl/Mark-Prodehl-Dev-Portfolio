@@ -8,5 +8,8 @@ Make a responsive website to host my web development portfolio and showcase myse
 
 ![About_ME](assets/images/MarkProfilePicture.JPG)
 
-Portfolio is hosted here: https://github.com/markprodehl
-Link to deployed application: https://markprodehl.github.io/Mark-Prodehl-Dev-Portfolio/
+## Portfolio is hosted here: 
+https://github.com/markprodehl
+
+## Link to deployed application: 
+https://markprodehl.github.io/Mark-Prodehl-Dev-Portfolio/
